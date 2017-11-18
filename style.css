@@ -55,6 +55,10 @@
   list-style-type: none;
   margin: 0;
   padding: 1em;
+  padding-right: 2em;
+}
+.cli li{
+  margin: 1em 0;
 }
 .cli li:before{
   content: '>';
